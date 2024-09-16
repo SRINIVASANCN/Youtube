@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Youtube/static/css/main.8740a9a1.css",
+    "main.js": "/Youtube/static/js/main.af1f1aa9.js",
+    "static/media/video.mp4": "/Youtube/static/media/video.3fa6a79d12eeb0bc2c5b.mp4",
+    "static/media/thumbnail4.png": "/Youtube/static/media/thumbnail4.e34afa6c5561f3117302.png",
+    "static/media/thumbnail8.png": "/Youtube/static/media/thumbnail8.80d857e9c212045f6efb.png",
+    "static/media/thumbnail1.png": "/Youtube/static/media/thumbnail1.91aa5ce73fc8255c007b.png",
+    "static/media/thumbnail5.png": "/Youtube/static/media/thumbnail5.9a1043ddda8747245faf.png",
+    "static/media/thumbnail3.png": "/Youtube/static/media/thumbnail3.f0474d5b6e63a0eec5da.png",
+    "static/media/thumbnail7.png": "/Youtube/static/media/thumbnail7.2409c5eef5ea0b8c2130.png",
+    "static/media/thumbnail6.png": "/Youtube/static/media/thumbnail6.922e46bb7429a189f630.png",
+    "static/media/thumbnail2.png": "/Youtube/static/media/thumbnail2.a7ae1c5718ce05f4c2f4.png",
+    "static/media/cameron.png": "/Youtube/static/media/cameron.cedb1ba5832f609542da.png",
+    "static/media/tom.png": "/Youtube/static/media/tom.df63bfcb6f1c8f5d7137.png",
+    "static/media/jack.png": "/Youtube/static/media/jack.3a2249a07dd80a9c36a4.png",
+    "static/media/megan.png": "/Youtube/static/media/megan.d9c678d896bed0b8c031.png",
+    "static/media/simon.png": "/Youtube/static/media/simon.a92c2df263101574e364.png",
+    "index.html": "/Youtube/index.html",
+    "main.8740a9a1.css.map": "/Youtube/static/css/main.8740a9a1.css.map",
+    "main.af1f1aa9.js.map": "/Youtube/static/js/main.af1f1aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8740a9a1.css",
+    "static/js/main.af1f1aa9.js"
+  ]
+}
